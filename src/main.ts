@@ -21,6 +21,6 @@ const button = document.getElementById("increment")!;
 const counterElement = document.getElementById("counter")!;
 
 button.addEventListener("click", () => {
-  counter += 30
+  counter += 30;
   console.log("I have these thingies:", button, counterElement, counter);
 });
