@@ -42,3 +42,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 2. Under "Source", select "GitHub Actions"
 3. The workflow will automatically deploy on pushes to the `main` branch
 4. Your site will be published at `https://<your-github-username>.github.io/<repository-name>/`
+
+## My Work
+
+I changed the logic so that the counter would go up by 30 everytime the button is clicked!
